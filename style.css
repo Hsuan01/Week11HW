@@ -1,0 +1,36 @@
+body{
+	background-color:snow ; 
+	font-family: times new roman;
+}
+li{
+	
+	color: black;}
+li em{
+	color: dimgray; 
+	text-decoration: underline;
+}
+h1,em{
+	background-color: white;
+	
+	font-family: arial;
+	color: steelblue;
+}
+span{
+	font-size: 16pt;
+	color: firebrick;
+}
+.extra span{
+	font-size: 20pt;
+	color: inherit;
+}
+a.nodec{
+	text-decoration: none;
+}
+a:hover{
+	color: darkred;
+}
+.background_image{
+	position: absolute;
+	z-index: 1;
+}
+
